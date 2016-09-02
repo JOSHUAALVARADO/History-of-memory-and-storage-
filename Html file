@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The History of memory</title>
+
+ <style type="text/css">
+        html{background-image: url(16_Origami_Star_Wars.jpg);
+    }
+     form{
+         background:#96969b;
+         padding:1em;
+         border:5px black;
+         margin:1em;
+         width:42em;  }
+
+    </style>
+
+</head>
+
+<body>
+
+<header>
+<h2>The History of Storage and Meomory </h2>
+<p class="author"><a href="http://www.computerhistory.org/timeline/memory-storage/">Memory And Storage</a></p>
+</header>
+
+</body>
+<artical/>
+    <form>
+
+    <h3>Ancient</h3>
+
+
+
+    The first entirely electronic memory was developed in 1947
+    By Freddie Williams and Tom Kilburn it was called the Williams Kilburn tube. it used a cathode ray tube similar to the ones in Tv’s at the time to store bits as dots on the screen surface. the dots only lasted a fraction of a second so the information was constantly refreshing the info was read by a metal plate that would detect a change in electrical charge.
+    Two years later Maurice and his team at the university of Cambridge constructed the electronic delay storage automatic calculator EDSAC it was a stored program computer used mercury delay line memory.
+</form>
+
+        <table border="0" cellspacing="0" cellpadding="0" class="graph">
+            <tr>
+                <td class="graph"> <img src="img/timeline.jpg" width="500" height="331"></td>
+            </tr>
+            <tr>
+                <td class="caption">
+                    Manchester Mark I Williams-Kilburn tube
+            </tr>
+        </table>
+<form>
+    <h3>Mid century Modern</h3>
+
+    26 years later hard disk drives for microcomputers the disk help 5megabites of memory. The next big thing was the compact tape the drive wrote 22 data tracks back and forth on a half inch tape it replaced the 1960-era DEC tape and its usage grew rapidly in the mid 1990s.CD rom it was able to hold 550 megabytes of prerecorded data the 9million word of the encyclopedia only took up 12 percent of the Cd memory.
+    When the compact flash was introduced it was quickly adopted because of its ruggedness and high capacity .
+
+
+
+</form>
+<table border="0" cellspacing="0" cellpadding="0" class="graph">
+    <tr>
+        <td class="graph"> <img src="img6/trius.jpg" width="500" height="331"></td>
+    </tr>
+    <tr>
+        <td class="caption">
+            Ferranti sirius magnetostrictive delay ine
+    </tr>
+</table>
+
+
+<
+
+<form>
+
+<h3>Modern</h3>
+
+The usb Flash drive was introduced in 2000 it was used for backing up and transferring files between various devices.
+The usb caused the floppy disks and optical disk drives to fade away. In 2003 Blu-ray disk were released to store high definition videos because it stored and played 1080p and the old Dvd on played videos at 480p blue ray ultimately prevailed because of its higher quality. In 2006 Amazon Web service lunched It allowed users to rent virtual time on the cloud to scale sever capacity quickly and efficiently while paying for what was used. The cloud eliminated the need for companies to maintain a complex computing infrastructure on their own. Later that year Hitachi Global announced the first 1tb Hard disk drive.
+Today most people use the cloud for there every day work .
+</form>
+
+<table border="0" cellspacing="0" cellpadding="0" class="graph">
+    <tr>
+        <td class="graph"><img src="img7/flashdrive.jpg" width="500" height="331"></td>
+    </tr>
+    <tr>
+        <td class="caption">
+        <table/>
+        Sandisk 4GB Flash Drive 
+    </tr>
+
+</table>
+</html>
